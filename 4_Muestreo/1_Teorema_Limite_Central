@@ -1,0 +1,12 @@
+
+Teorema del límite central
+
+Es uno de los teoremas más importantes de la estadística.
+Establece que muestras aleatorias de cualquier distribución van a tener una distribución normal si le aplicamos más
+inputs a una muestra binominial.
+Permite entender cualquier distribución como la distribución normal de sus medias y eso nos permite aplicar
+lo que sabemos de distribuciones normales.
+
+Mientras más muestras y mientrsas más grande sea el tamaño de la muestra, la media tiende a ser una distribución normal.
+En otras palabras, si hay mucha desviación estándar, lo mejor es agregar muestras.
+

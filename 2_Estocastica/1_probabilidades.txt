@@ -1,0 +1,63 @@
+
+Probabilidades
+
+Es una medida de la certidumbre asociada a un evento o suceso futuro y suele expresarse como un número entre 0 y 1.
+Una probabilidad de 0 significa que un suceso jamás sucederá.
+Una probabilidad de 1 significa que un suceso está garantizado a suceder en el futuro.
+
+
+Al hablar de probabilidad preguntamos qué fracción de todos los posibles eventos tiene la propiedad que buscamos.
+Por eso es importante poder calcular todas las posibilidades de un evento para entender su probabilidad.
+La probabilidad de que un evento suceda y de que no sucede es siempre 1.
+
+
+Leyes
+
+Ley del complemento: La probabilidad de que un evento suceda + la probabilidad de que un evento no sueceda,
+es llamada la ley del complemento.
+    * P(A) + P(~A) = 1
+
+
+Ley multiplicativa: Cual es la probabilidad de que un evento suceda Y otro evento suceda
+    * P(A y B) = P(A) * P(B)
+Ej: Probabilidad de que yo soy programador y que además, me guste el color naranja. Esa probabilidad SIEMPRE será
+menor a la probabilidad de que yo SÓLO sea programador.
+Ej2: Probabilidad de que me gusta escribir código en python y código en R. La probabilida de que ambas cosas sean verdad
+siempre es menor a que sólo 1 sea cierta.
+
+
+Ley Aditiva: Se separa en 2, para eventos mutuamente exclusivos (es decir, que pasa uno O el otro), o bien, para eventos
+no exclusivos (es decir, que pase A, que pase B ó que pase A y B).
+    * (Mutuamente exclusivos) P(A o B) = P(A) + P(B)
+    * (No exclusivos) P(A o B) = P(A) + P(B) - P(A y B)
+
+
+
+Ej práctico: Dado
+
+Un dado tiene 6 caras, con 6 posibles resultados : [1, 2, 3, 4, 5, 6]
+
+1 - ¿Cuál es la probabilidad de obtener un 1?
+R. La probabilidad es de 1/6 (léase, 1 entre 6), debido a que de las 6 posibilidades, 1 es la que busco.
+Eso traducido a número real sería: 0,16667.
+
+2 - ¿Cuál es la probabilidad de obtener un 1 ó un 2?
+R. Aquí, al tener 2 opciones como validad (y no sólo 1 como en el anterior postulado), aplicamos la ley del complemento.
+    P(1) + P(2) -->  1/6 + 1/6 = 2/6 -->  1/3  --> 0,333.
+
+3 - ¿Cuál es la probabilidad de NO obtener un 1?
+R. Sabemos que la probabilidad de obtener un 1 es 1/6 y sabemos que por la ley del complemento, podemos calcular la pro-
+babilidad realizando el cálculo de ( 1 - probabilidad_del_evento ). Lo cual en este caso sería :
+    1 - (P1) -->  1 - 1/6 --> 5/6 --> 0,83.
+
+4 - ¿Cuál es la probabilidad de NO obtener un 1 en 10 tiros?
+R. Aquí podemos utilizar la ley de la multiplicación, sabemos que la probabilidad de no obtener un 1 es 5/6, la probabi-
+lidad de no obtenerlo de nuevo sigue siendo 5/6, por lo que exponenciando lo anterior por el número de tiros a realizar
+nos deja un cálculo de = (5/6)^10
+    (5/6)^10 = 0.1615.
+
+
+5 - ¿Cuál es la probabilidad de obtener 1 en 10 tiros?
+R. 1 - (5/6)^10  -->  0.8384.
+
+

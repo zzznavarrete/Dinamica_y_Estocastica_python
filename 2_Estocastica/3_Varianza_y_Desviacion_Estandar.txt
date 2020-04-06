@@ -1,0 +1,21 @@
+
+Varianza
+
+La varianza mide qué tan propagados se encuentran un conjunto de valores aleatorios de su media.
+Mientras que la media nos da una idea de dónde se encuentran los valores, la varianza nos dice que tan dispersos
+se encuentran.
+La varianza siempre debe entenderse con respecto a la media.
+Ej: Si en base a un resultado, decimos que tenemos una media de 1.000.000, con una desviación estandar de 5,
+esto significa que los datos se moverán entre 1.000.005 y 999.995, es decir, una rango de falla muy bajo en
+relación a la media.
+
+
+
+
+Desviación estándar
+
+Es la raíz cuadrada de la varianza. La desviación estándar nos permite hablar de la varianza en término de las mismas
+unidades que nosotros estamos hablando (Nos permite entender la propagación y se debe entender siempre relacionado
+a la media).
+La ventaja sobre la varianza es que la desviación estándar está en las mismas unidades que la media.
+

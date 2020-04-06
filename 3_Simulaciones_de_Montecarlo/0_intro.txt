@@ -1,0 +1,24 @@
+
+
+Simulaciones de Montecarlo.
+
+Simulaciones de juegos de azar, se llaman así ya que ____ junto a su amigo ____ fueron los primeros en simular
+estos juegos (en la computadora ENIAC), basados en los juegos de azar del casino de Montecarlo.
+
+Sus simulaciones no sólo le sirvieron para averiguar como funcionan estos juegos de casino, sino también en el
+proyecto Manhattan en el cual ambos estaban involucrados. Lo que hicieron fue generar simulaciones probabilísticas
+para ver que iba a suceder con este tipo de bombas que estaban desarrollando.
+
+ * Permite crear simulaciones para predecir el resultado de un problema.
+ * Permite convertir problemas determinísticos en problemas estocásticos.
+ * Es utilizado en ingeniería hasta la biología y el derecho.
+
+
+Aplicaciones prácticas:
+ - Ver como funcionan las medicinas dentro de nuestro cuerpo.
+ - Ver si un juez o sistema jurídico responderá o no a ciertos cambios en la ley.
+ - Calculo de PI.
+ - etc.
+
+
+

@@ -1,0 +1,9 @@
+
+Punto 1: El nombre en realidad no significa nada, el creador del concepto (Richard Bellman) lo
+inventó para tener un nombre pomposo de su proyecto y conseguir financiamiento.
+
+Es una de las técnicas más poderosa para poder optimizar cierto tipo de problemas.
+Los problemas que puede optimizar son aquellos que tienen una sub-estructura óptima.
+Subestructura óptima significa que la solución óptima global se puede encontrar, encontrando
+soluiciones óptimas a problemas locales.
+

@@ -1,0 +1,19 @@
+
+Distribución normal
+
+Es una de las distribuciones más recurrentes en cualquier ámbito.
+Se define completamente por su media y su desviación estándar.
+Permite calcular intervalos de confianza con la regla empírica.
+
+
+Regla empírica.
+
+También conocida como la regla del 68-95-99.7.
+Señala cual es la dispersión de los datos en una distribución normal a uno, dos y tres sigmas(*)
+// *sigma = Desviación estandar//
+Permite cualcular probabilidades con la densidad de la distribución normal.
+
+(Ver imagen adjunta en el directorio)
+Esta imagen señala por ej, que a 1 desviación estandar encontramos el 68% de los datos, a 2 sigmas el 95% y a
+3 sigmas el 99.7% de los datos.
+

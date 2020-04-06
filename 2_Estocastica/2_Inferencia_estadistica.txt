@@ -1,0 +1,37 @@
+
+Inferencia Estadística
+
+Con las simulaciones podemos calculas las probabilidades de eventos complejos sabiendo las probabilidades de eventos
+simples.
+¿Qué pasa cuando no sabemos las probabilidades de eventos simples?
+Las técnicas de inferencia estadística nos permiten inferir/concluir las propiedades de una población a partir de una
+muestra aleatoria.
+
+"El principio de la Inferencia Estadística es que una muestra aleatoria tienda a exhibir las mismas propiedades
+que la población de la cual fue extraída" - John Guttag
+
+Cuando sacamos varias muestras en varias ocasiones, la probabilidad de que la media de todas estas muestras se
+asemeje a la media de la población total, es muy alta (siempre con una variabilidad, varianza y desviación estándar).
+
+¿Por qué funciona lo anterior? por la Ley de los grandes número.
+
+Ley de los grandes números.
+
+En pruebas independientes repetidas con la misma probabilidad p de un resultado, la fracción de desviaciones de p
+converge a a cero conforme la cantidad de pruebas se acerca al infinito.
+
+
+
+Falacia del apostador.
+
+La falacia del apostador señala que después de une vento extremo, ocurrirán eventos menos extremos para nivel la media.
+Ej: Después de que saqué 20 veces un 6 tirando un dado, ahora deberé sacar 20 veces 1, para nivel la media (3).
+Esto es tremendamente incorrecto, la regresión a la media señala que después de un evento aleatorio extremo, el siguien-
+te evento probablemente será menos extremo.
+
+
+Historia: En 1943, en los cacinos de Montecarlo, sucedió un evento extremo, que la ruleta tiró 32 rojos consecutivos.
+Entonces, las personas allí pensaron que debido a lo anterior, luego caerían 32 negros consecutivos y empezó a apostar
+bajo esa lógica, siendo que en verdad, no fue así y fue de las noches más fructuosas en profit para el Casino y una
+anécdota histórica.
+

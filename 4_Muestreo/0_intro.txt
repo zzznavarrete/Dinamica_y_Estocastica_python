@@ -1,0 +1,18 @@
+
+Muestreo
+
+Hay ocasiones en la que no tenemos acceso a toda la población que queremos explorar.
+Uno de los grandes descubrimientos de la estadística es que las muestras aleatorias tienden a mostrar las mismas
+propiedades de la población objetivo.
+El tipo de muestreo que hemos hecho hasta ahora es un muestro probabilístico.
+
+En un muestro aleatorio cualquier miembro de la población tiene la misma probabilidad de ser escogido.
+    - Conviene hacerlo cuando mi población tiene características similares.
+
+En un muestro estratificado tomamos en consideración las características de la población para
+partirla en subgrupos y luego tomamos muestras de cada sugrupo.
+    - Conviene cuando mi población es muy diferente.
+    - Incementa la probabilidad de que el muestreo sea representativo de la población..
+
+
+

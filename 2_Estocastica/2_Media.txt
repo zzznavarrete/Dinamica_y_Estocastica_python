@@ -1,0 +1,14 @@
+
+Media
+
+Uno de los elementos más importantes dentro de la inferencia estadística, es calcular la media.
+La media lo que nos da es el promedio de los valores. Es una medida de tendencia central en donde se encuentran
+la mayoria de los valores de nuestra muestra, lo que nos permite inferir donde se encuentran la mayoría de los valores
+de nuestra población objetivo.
+
+La forma en que calculamos la media es:
+    * X = suma_de_inputs / largo_de_inputs
+    * Ej: Tenemos una lista de calificaciones de largo 3, estas calificaciones son [8, 9 y 10], el cálculo de la media
+    sería: X = (8+9+10) / 3 --> 27 / 3 --> 9.  X = 9.
+
+
